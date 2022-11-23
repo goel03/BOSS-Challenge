@@ -1,0 +1,73 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    display: block;
+margin:auto;
+
+width :50%;
+
+height :100px;
+
+}
+
+.left
+{
+  width:50%;
+  height:500px;
+  /* margin-left:60%; */
+  float:right;
+
+
+  font-size: 30px;
+ color:brown;
+  background-color:lightpink;
+}
+
+#a{
+  margin-left: 34%;
+font-size: 70px;
+  color: blue;
+}
+
+#title{
+  /* align-items: center; */
+
+/* margin-left: 20%; */
+  /* align-content: center; */
+}
+ 
+.btn
+{
+    margin:25px;
+    display: inline-block;
+    height: 200px;
+    width:200px;
+    border: 10px solid black;
+  border-radius: 20%;
+
+}
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+
+
+
+.red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
